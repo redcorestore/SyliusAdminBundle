@@ -20,7 +20,6 @@ sylius_grid:
                     type: twig
                     label: sylius.ui.order
                     path: .
-                    sortable: ~
                     options:
                         template: "@SyliusAdmin/Order/Grid/Field/number.html.twig"
                 date:
